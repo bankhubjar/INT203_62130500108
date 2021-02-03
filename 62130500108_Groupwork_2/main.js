@@ -5,7 +5,8 @@ const app = {
             profilepic: './images/me.jpg',
             firstname: 'Jakkrapop',
             lastname: 'Chivrarerk',
-            Article: 21,
+            Position: 'SIT Student',
+            Article: 420,
             follower: 32,
             rateing: 5.2
         }
