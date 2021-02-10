@@ -13,7 +13,7 @@ const app = {
     },
     methods: {
         follow(event) {
-            this.follower=Math.floor(Math.random() * 100)
+            this.follower=Math.floor(Math.random() * 1000)
         },
         Ratings(event) {
             return this.rateing = (Math.random() * 10).toFixed(1);
